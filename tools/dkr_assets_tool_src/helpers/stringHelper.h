@@ -2,6 +2,7 @@
 
 #include <string>
 #include <vector>
+#include <cstdint>
 
 // These are functions that I would've expected to be a part of std::string. (Except for a few)
 class StringHelper {
